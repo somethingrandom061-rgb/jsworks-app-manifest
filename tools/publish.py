@@ -7,7 +7,7 @@ LIVERIES_DIR = ROOT / "liveries"
 MANIFEST_PATH = ROOT / "manifest.json"
 BRAND = "JSWorks"
 
-REQUIRED = ["id", "name", "version", "download_url"]
+REQUIRED_FIELDS = ["id", "version"]
 OPTIONAL = ["aircraft", "changelog", "photos"]
 
 def load_json(p: Path) -> dict:
