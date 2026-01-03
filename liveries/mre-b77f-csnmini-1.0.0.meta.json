@@ -1,11 +1,14 @@
 {
-  "id": "mre-pmdg-b77f-csg-minifleetpack",
-  "name": "China Southern Cargo Mini Fleet Pack",
-  "aircraft": "PMDG B777F",
-  "version": "1.0.0",
-  "changelog": "Initial App Release",
-  "download_url": "https://cdn.alpha.flightsim.to/0026/PMDG-B77F-CSG-MiniFleetPack_geSy.zip",
-  "photos": [
-    "https://8upload.com/image/764ff10cfc1d0b64/Main_screenshot.jpg"
+  "id": "aegean-standard",
+  "name": "Aegean Airlines",
+  "variant": "Standard",
+  "aircraft": "A321",
+  "registration": "SX-DGT",
+  "year": 2015,
+  "tags": ["GR", "IAEV2500", "WTF"],
+  "photos": ["https://yourcdn/thumb.jpg"],
+  "downloads": [
+    { "label": "FS20", "url": "https://yourhost/aegean_fs20.zip" },
+    { "label": "FS24", "url": "https://yourhost/aegean_fs24.zip" }
   ]
 }
