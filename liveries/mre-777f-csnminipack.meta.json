@@ -1,0 +1,19 @@
+{
+  "id": "mre-csn-pmdg77f-minipack",
+  "title_line": "China Southern Mini Pack - PMDG 777F",
+  "developer": "PMDG Simulations",
+  "aircraft": "PMDG Simulations | Boeing 777F",
+  "author": "Mr Egypt",
+  "version": "1.0.0",
+  "released": "Janurary 4th, 2026",
+  "status": "",
+  "featured": false,
+  "available": true,
+  "photos": [
+    "https://8upload.com/image/764ff10cfc1d0b64/Main_screenshot.jpg",
+    "https://8upload.com/image/6c8b9948000c708b/Screenshot_2025-12-04_170008.png",
+    "https://8upload.com/image/b06d0eb57f0956d1/Screenshot_2025-12-04_170039.png"
+  ],
+  "download_fs20": "https://cdn.alpha.flightsim.to/0026/PMDG-B77F-CSG-MiniFleetPack_geSy.zip",
+  "download_fs24": "https://cdn.alpha.flightsim.to/0026/PMDG-B77F-CSG-MINIFLEETPACK_xUiP5.zip"
+}
