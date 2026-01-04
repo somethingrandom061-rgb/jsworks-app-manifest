@@ -7,9 +7,15 @@
   "version": "1.0.0",
 
   "released": "January 4, 2026",
-  "status": "",
+  "status": "Available",
   "featured": false,
   "available": true,
+
+"changelog": [
+  { "version": "1.0.1", "date": "January 6, 2026", "changes": ["Fixed X", "Improved Y"] },
+  { "version": "1.0.0", "date": "January 4, 2026", "changes": ["Initial release"] }
+],
+
 
   "photos": [
     "https://8upload.com/image/764ff10cfc1d0b64/Main_screenshot.jpg",
