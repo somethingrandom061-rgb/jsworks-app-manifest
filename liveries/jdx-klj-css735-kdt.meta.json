@@ -1,0 +1,34 @@
+{
+  "id": "jdx-klj-css735-kdt",
+  "title_line": "KlasJet LY-KDT - CSS 737-500",
+  "developer": "CSS",
+  "aircraft": "CSS | Boeing 737-500",
+  "author": "AJP Creations",
+  "version": "1.0.0",
+  "released": "January 04, 2026",
+  "status": "Available",
+  "featured": true,
+  "available": true,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "December 24, 2025",
+      "changes": [
+        "Initial release"
+      ]
+    }
+  ],
+  "photos": [
+    "https://8upload.com/image/f7c5d993fef66403/KDT05.png",
+    "https://8upload.com/image/968203653b1fd33b/lykdt.png",
+    "https://8upload.com/image/241fcde1f551b0c2/Microsoft_Flight_Simulator_2024_Screenshot_2026.01.01_-_16.01.51.43.png"
+  ],
+  "download_fs24": "https://cdn.alpha.flightsim.to/0027/css-aircraft-b737-500-jordxne-klj-kdt24_jS5JL.zip",
+  "download_fs20": "https://cdn.alpha.flightsim.to/0027/css-aircraft-b737-500-jordxne-klj-kdt_Qi5ht.zip",
+  "package_folders_fs24": [
+    "css-aircraft-b737-500-jordxne-klj-kdt24"
+  ],
+  "package_folders_fs20": [
+    "css-aircraft-b737-500-jordxne-klj-kdt"
+  ]
+}
