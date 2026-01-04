@@ -1,0 +1,27 @@
+{
+  "id": "jde-qfa-fsse190-uzf",
+  "title_line": "Qantaslink VH-UZF - FSS E190",
+  "developer": "FlightSim Studios",
+  "aircraft": "FlightSim Studios | Embraer E190",
+  "author": "JordxnE",
+  "version": "0.0.0",
+  "released": "Not Released Yet",
+  "status": "Coming Soon",
+  "featured": true,
+  "available": true,
+  "changelog": [
+    {
+      "version": "0.0.0",
+      "date": "Not Released Yet",
+      "changes": [
+        "Added to DB for testing"
+      ]
+    }
+  ],
+  "photos": [
+    "https://8upload.com/image/af791905772c8c25/Microsoft_Flight_Simulator_2024_2025.11.25-20.12_1.png",
+    "https://8upload.com/image/77920c44f6db00bb/Microsoft_Flight_Simulator_2024_2025.11.25-18.53_1.png"
+  ],
+  "download_fs24": "https://1",
+  "download_fs20": "https://1"
+}
