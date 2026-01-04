@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-04T14:55:20.307323+00:00",
+  "generated_at": "2026-01-04T18:07:24.509972+00:00",
   "items": [
     {
       "id": "ajp-ual-N14604",
@@ -22,7 +22,10 @@
         }
       ],
       "photos": [
-        "https://8upload.com/image/2fcb9a1581d978e1/Thumbnail.png"
+        "https://8upload.com/image/2fcb9a1581d978e1/Thumbnail.png",
+        "https://8upload.com/image/8af42f747bf4a9ee/FlightSimulator2024_BLEAJqFxch.png",
+        "https://8upload.com/image/10ac093c631cc5dd/FlightSimulator2024_MYi1b0WuNT.png",
+        "https://8upload.com/image/52953ca19446be0c/FlightSimulator2024_YTcfZhCEVW.png"
       ],
       "download_fs24": "https://cdn.alpha.flightsim.to/0027/CSS735%20United%20Unicon%20FS24_P3ZT_.zip",
       "download_fs20": "https://cdn.alpha.flightsim.to/0027/CSS735%20United%20-%20Unicon%20-%20N14604_D6vWC.zip",
@@ -67,6 +70,73 @@
       ],
       "package_folders_fs20": [
         "JSWorks-QTR-F1-BEG"
+      ]
+    },
+    {
+      "id": "jde-qfa-fsse190-uzf",
+      "title_line": "Qantaslink VH-UZF - FSS E190",
+      "developer": "FlightSim Studios",
+      "aircraft": "FlightSim Studios | Embraer E190",
+      "author": "JordxnE",
+      "version": "1.1.0",
+      "released": "Not Released Yet",
+      "status": "Coming Soon",
+      "featured": false,
+      "available": true,
+      "changelog": [
+        {
+          "version": "0.0.0",
+          "date": "Not Released Yet",
+          "changes": [
+            "Added to DB for testing"
+          ]
+        }
+      ],
+      "photos": [
+        "https://8upload.com/image/af791905772c8c25/Microsoft_Flight_Simulator_2024_2025.11.25-20.12_1.png",
+        "https://8upload.com/image/77920c44f6db00bb/Microsoft_Flight_Simulator_2024_2025.11.25-18.53_1.png"
+      ],
+      "download_fs24": "https://cdn.alpha.flightsim.to/0027/e190qfazip_qKQAO.zip",
+      "download_fs20": "https://cdn.alpha.flightsim.to/0027/e190qfazip_qKQAO.zip",
+      "package_folders_fs24": [
+        "fss-aircraft-e190-qlink-uzf"
+      ],
+      "package_folders_fs20": [
+        "fss-aircraft-e190-qlink-uzf"
+      ]
+    },
+    {
+      "id": "jdx-klj-css735-kdt",
+      "title_line": "KlasJet LY-KDT - CSS 737-500",
+      "developer": "CSS",
+      "aircraft": "CSS | Boeing 737-500",
+      "author": "JordxnE",
+      "version": "1.0.0",
+      "released": "January 04, 2026",
+      "status": "Available",
+      "featured": false,
+      "available": true,
+      "changelog": [
+        {
+          "version": "1.0.0",
+          "date": "December 24, 2025",
+          "changes": [
+            "Initial release"
+          ]
+        }
+      ],
+      "photos": [
+        "https://8upload.com/image/f7c5d993fef66403/KDT05.png",
+        "https://8upload.com/image/968203653b1fd33b/lykdt.png",
+        "https://8upload.com/image/241fcde1f551b0c2/Microsoft_Flight_Simulator_2024_Screenshot_2026.01.01_-_16.01.51.43.png"
+      ],
+      "download_fs24": "https://cdn.alpha.flightsim.to/0027/css-aircraft-b737-500-jordxne-klj-kdt24_jS5JL.zip",
+      "download_fs20": "https://cdn.alpha.flightsim.to/0027/css-aircraft-b737-500-jordxne-klj-kdt_Qi5ht.zip",
+      "package_folders_fs24": [
+        "css-aircraft-b737-500-jordxne-klj-kdt24"
+      ],
+      "package_folders_fs20": [
+        "css-aircraft-b737-500-jordxne-klj-kdt"
       ]
     },
     {
