@@ -4,10 +4,10 @@
   "developer": "FlightSim Studios",
   "aircraft": "FlightSim Studios | Embraer E190",
   "author": "JordxnE",
-  "version": "0.0.0",
+  "version": "1.1.0",
   "released": "Not Released Yet",
   "status": "Coming Soon",
-  "featured": true,
+  "featured": false,
   "available": true,
   "changelog": [
     {
@@ -22,6 +22,12 @@
     "https://8upload.com/image/af791905772c8c25/Microsoft_Flight_Simulator_2024_2025.11.25-20.12_1.png",
     "https://8upload.com/image/77920c44f6db00bb/Microsoft_Flight_Simulator_2024_2025.11.25-18.53_1.png"
   ],
-  "download_fs24": "https://8upload.com/image/b37c36e0bca43c2a/Untitled-1.png",
-  "download_fs20": "https://8upload.com/image/b37c36e0bca43c2a/Untitled-1.png"
+  "download_fs24": "https://cdn.alpha.flightsim.to/0027/e190qfazip_qKQAO.zip",
+  "download_fs20": "https://cdn.alpha.flightsim.to/0027/e190qfazip_qKQAO.zip",
+  "package_folders_fs24": [
+    "fss-aircraft-e190-qlink-uzf"
+  ],
+  "package_folders_fs20": [
+    "fss-aircraft-e190-qlink-uzf"
+  ]
 }
