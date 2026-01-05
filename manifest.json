@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-05T18:27:06.957992+00:00",
+  "generated_at": "2026-01-05T18:33:58.786907+00:00",
   "items": [
     {
       "id": "ajp-ual-N14604",
@@ -80,7 +80,7 @@
       "author": "JordxnE",
       "version": "1.1.0",
       "released": "Not Released Yet",
-      "status": "Coming Soon",
+      "status": "Available",
       "featured": false,
       "available": true,
       "changelog": [
@@ -107,7 +107,7 @@
     },
     {
       "id": "jde-uty-fsse190-a2n",
-      "title_line": "Alliance Airlines VH-A2N - FSS E190",
+      "title_line": "Alliance Airlines VH-A2N - FSS E190 (EARLY ACCESS)",
       "developer": "FlightSim Studios",
       "aircraft": "FlightSim Studios | Embraer E190",
       "author": "JordxnE",
