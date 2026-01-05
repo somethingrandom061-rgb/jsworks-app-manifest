@@ -1,0 +1,35 @@
+{
+  "id": "jde-uty-fsse190-a2n",
+  "title_line": "Alliance Airlines VH-A2N - FSS E190",
+  "developer": "FlightSim Studios",
+  "aircraft": "FlightSim Studios | Embraer E190",
+  "author": "JordxnE",
+  "version": "1.0.0",
+  "released": "Not Public Yet",
+  "status": "Available",
+  "featured": false,
+  "available": true,
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "Not Released Yet",
+      "changes": [
+        "Added to DB for testing"
+      ]
+    }
+  ],
+  "photos": [
+    "https://8upload.com/image/02697dac806a5401/FlightSimulator2024_jYldKlCPxW.png",
+    "https://8upload.com/image/0ddcc71b4549fc06/FlightSimulator2024_GPZ5eCj2pi.png",
+    "https://8upload.com/image/2776521651771a8d/FlightSimulator2024_PE4q7hgEOp.png",
+    "https://8upload.com/image/6d9532a2b748dc8a/FlightSimulator2024_zzLkXNr7e9.png"
+  ],
+  "download_fs24": "https://drive.usercontent.google.com/download?id=1ZkplkZUmR-W2ATZstGYo--5xSr1Kpc21&export=view&authuser=0&confirm=t&uuid=fe55b6f6-ba64-4617-a9e2-da8a329c632e&at=ANTm3czt0-DUqOChE1acQ38e_J_R%3A1767637445340",
+  "download_fs20": "https://drive.usercontent.google.com/download?id=1ZkplkZUmR-W2ATZstGYo--5xSr1Kpc21&export=view&authuser=0&confirm=t&uuid=fe55b6f6-ba64-4617-a9e2-da8a329c632e&at=ANTm3czt0-DUqOChE1acQ38e_J_R%3A1767637445340",
+  "package_folders_fs24": [
+    "jordxne-fss-e190-vha2n"
+  ],
+  "package_folders_fs20": [
+    "jordxne-fss-e190-vha2n"
+  ]
+}
